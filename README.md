@@ -3,8 +3,8 @@ Course exercises from the Complete NodeJS with NodeJS, TypeScript, GraphQL, etc.
 This repository is part of the NodeJS course available at https://www.udemy.com.
 
 ## About
-Open the `./src` to learn, practice, code along with the fundamentals of the nodeJS
-open the `./project` to see sample project related to the course
+Open the `./src` to learn, practice, code along with the fundamentals of the nodeJS <br />
+open the `./project` to see sample project related to the course <br />
 open the `./doc` to read my note
 
 ## Table of Contents
